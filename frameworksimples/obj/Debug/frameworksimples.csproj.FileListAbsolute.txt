@@ -1,0 +1,15 @@
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\bin\Debug\frameworksimples.exe.config
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\bin\Debug\frameworksimples.exe
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\bin\Debug\frameworksimples.pdb
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\bin\Debug\EntityFramework.dll
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\bin\Debug\EntityFramework.xml
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\obj\Debug\frameworksimples.Form1.resources
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\obj\Debug\frameworksimples.Properties.Resources.resources
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\obj\Debug\frameworksimples.csproj.GenerateResource.cache
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\obj\Debug\frameworksimples.csproj.CoreCompileInputs.cache
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\obj\Debug\frameworksimples.csproj.CopyComplete
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\obj\Debug\frameworksimples.exe
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\obj\Debug\frameworksimples.pdb
+C:\Users\burha\source\repos\frameworksimples\frameworksimples\obj\Debug\frameworksimples.csprojAssemblyReference.cache
